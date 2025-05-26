@@ -27,7 +27,7 @@ This tool fixes the KMODE_EXCEPTION_NOT_HANDLED BSOD on Windows 10/11, caused by
 ### 🖼 Preview
 
 **1. KMODE_EXCEPTION_NOT_HANDLED BSOD Screen**  
-![KMODE_EXCEPTION_NOT_HANDLED BSOD](https://signmycode.com/resources/wp-content/uploads/2023/10/fix-a-kmode-exception-not-handled-error-in-windows-jpg.webp)  
+![KMODE_EXCEPTION_NOT_HANDLED BSOD](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/Image-1-KMODE-EXCEPTION-NOT-HANDLED-BSOD-Error.jpg)  
 *A typical system crash triggered by kernel exceptions or faulty drivers*
 
 ---
